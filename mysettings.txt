@@ -1,6 +1,0 @@
-[config]
-BROWSER = chrome
-BROWSER_PATH = C:/Users/Bishal/AppData/Local/Google/Chrome/User
-NAME = AIML Dil Mange More
-PAGE = https://web.whatsapp.com/
-DOWNLOADS = C:/Users/Bishal/Downloads
